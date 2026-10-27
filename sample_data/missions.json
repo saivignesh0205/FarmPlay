@@ -1,1 +1,52 @@
-
+[
+  {
+    "mission_id": "MIS001",
+    "title": "Learn About Water-Saving Irrigation",
+    "category": "Water Conservation",
+    "description": "Review locally appropriate ways to reduce avoidable water use and discuss suitability with an agricultural adviser.",
+    "difficulty": "Easy",
+    "points": 10,
+    "duration_days": 1,
+    "status": "sample"
+  },
+  {
+    "mission_id": "MIS002",
+    "title": "Explore Composting",
+    "category": "Soil Health",
+    "description": "Learn how suitable organic materials can be composted safely for use on the farm.",
+    "difficulty": "Easy",
+    "points": 15,
+    "duration_days": 3,
+    "status": "sample"
+  },
+  {
+    "mission_id": "MIS003",
+    "title": "Record Soil-Health Observations",
+    "category": "Soil Health",
+    "description": "Record basic observations about the field and identify questions to discuss with a local agricultural expert.",
+    "difficulty": "Medium",
+    "points": 20,
+    "duration_days": 2,
+    "status": "sample"
+  },
+  {
+    "mission_id": "MIS004",
+    "title": "Learn About Crop Diversity",
+    "category": "Biodiversity",
+    "description": "Explore crop rotation or diversification options that may suit the local farm and season.",
+    "difficulty": "Medium",
+    "points": 20,
+    "duration_days": 3,
+    "status": "sample"
+  },
+  {
+    "mission_id": "MIS005",
+    "title": "Share a Sustainable Farming Learning",
+    "category": "Community Learning",
+    "description": "Share one useful learning point with a peer or community group, without disclosing private farm information.",
+    "difficulty": "Easy",
+    "points": 10,
+    "duration_days": 1,
+    "status": "sample"
+  }
+]
