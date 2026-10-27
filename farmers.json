@@ -1,0 +1,23 @@
+[
+  {
+    "farmer_id": "FAR001",
+    "display_name": "Sample Farmer A",
+    "region": "Tamil Nadu",
+    "crop_type": "Paddy",
+    "farm_size_acres": 2.0
+  },
+  {
+    "farmer_id": "FAR002",
+    "display_name": "Sample Farmer B",
+    "region": "Tamil Nadu",
+    "crop_type": "Groundnut",
+    "farm_size_acres": 1.5
+  },
+  {
+    "farmer_id": "FAR003",
+    "display_name": "Sample Farmer C",
+    "region": "Karnataka",
+    "crop_type": "Millets",
+    "farm_size_acres": 3.0
+  }
+]
